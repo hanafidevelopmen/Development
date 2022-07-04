@@ -1,6 +1,6 @@
 # Hans_Developmet API with Flutter
 
-A new Flutter project.
+This repository contains the source code of HANDPHONE STORE, an example of getting data from the DummyJSON API to display in an application using Flutter. To display product lists and detailS.
 
 ## Getting Started
 
