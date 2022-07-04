@@ -7,8 +7,6 @@ This repository contains the source code of HANDPHONE STORE, an example of getti
 Demo of the application.
 
 
-# Project Title
-
 
 ![Logo](https://github.com/hanafidevelopmen/hans_depelopmen/blob/7a20adcb92f4e7a5e34a082f65ccb09190a2f414/awal.PNG)
 
